@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1589105602 source:c:\users\yash\documents\programming\c++\file explorer\interface.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+	<vector>
+	"interface.h"
+	"search.h"
+	"string.h"
+
+1584904204 c:\users\yash\documents\programming\c++\file explorer\interface.h
+
+1584892552 c:\users\yash\documents\programming\c++\file explorer\search.h
+
+1588937916 c:\users\yash\documents\programming\c++\file explorer\string.h
+
+1584900241 source:c:\users\yash\documents\programming\c++\file explorer\main.cpp
+	<iostream>
+	"interface.h"
+
+1584768252 source:c:\users\yash\documents\programming\c++\file explorer\resource.rc
+
+1588937744 source:c:\users\yash\documents\programming\c++\file explorer\search.cpp
+	<iostream>
+	<dirent.h>
+	<vector>
+	"search.h"
+	"string.h"
+
+1588937916 source:c:\users\yash\documents\programming\c++\file explorer\string.cpp
+	<iostream>
+	"string.h"
+
